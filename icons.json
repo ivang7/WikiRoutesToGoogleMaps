@@ -1,0 +1,30 @@
+{
+  "default-url-icon": "http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
+  "icons": [
+    {
+      "id": "icon-1499-097138-labelson-nodesc",
+      "name": "start",
+      "color": "ff387109"
+    },
+    {
+      "id": "icon-1732-9C27B0-labelson-nodesc",
+      "name": "end",
+      "color": "ffb0279c"
+    },
+    {
+      "id": "icon-1731-0288D1-labelson-nodesc",
+      "name": "begin",
+      "color": "ffd18802"
+    },
+    {
+      "id": "icon-1500-E65100-labelson-nodesc",
+      "name": "finish",
+      "color": "ff0051e6"
+    },
+    {
+      "id": "icon-1501-F9A825-labelson-nodesc",
+      "name": "stop",
+      "color": "ff25a8f9"
+    }
+  ]
+}
